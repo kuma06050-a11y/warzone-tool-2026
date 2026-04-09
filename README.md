@@ -3,9 +3,9 @@
 <h1>Call of Duty: Warzone Tool 2026</h1>
 <p><strong>Advanced Gameplay Enhancement • Origin Edition</strong></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/coolesew/warzone-tool-2026?style=for-the-badge&logo=github&color=FF0000)](https://github.com/JohnPaulPodador/warzone-cheat-2026/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/coolesew/warzone-tool-2026?style=for-the-badge&logo=github&color=00FF00)](https://github.com/JohnPaulPodador/warzone-cheat-2026/network)
-[![License](https://img.shields.io/github/license/coolesew/warzone-tool-2026?style=for-the-badge&color=FFD700)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/kuma06050-a11y/warzone-tool-2026?style=for-the-badge&logo=github&color=FF0000)](https://github.com/JohnPaulPodador/warzone-cheat-2026/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kuma06050-a11y/warzone-tool-2026?style=for-the-badge&logo=github&color=00FF00)](https://github.com/JohnPaulPodador/warzone-cheat-2026/network)
+[![License](https://img.shields.io/github/license/kuma06050-a11y/warzone-tool-2026?style=for-the-badge&color=FFD700)](LICENSE)
 
 [![Status](https://img.shields.io/badge/Status-Worked-00FF00?style=for-the-badge&logo=shield&logoColor=white)](https://goragalo.live/warzone)
 [![Version](https://img.shields.io/badge/Version-2026.04.04-red?style=for-the-badge)](https://goragalo.live/warzone)
